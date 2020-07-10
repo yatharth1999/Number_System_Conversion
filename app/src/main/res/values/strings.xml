@@ -1,0 +1,10 @@
+<resources>
+<string name="app_name">Converter</string>
+<string-array name="converter_array">
+    <item>Binary</item>
+    <item>Decimal</item>
+    <item>Octal</item>
+    <item>Hexadecimal</item>
+</string-array>
+    <string name="Binary">Binary</string>
+</resources>
